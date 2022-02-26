@@ -1,0 +1,8 @@
+/.classpath
+/.project
+/target/
+/.vscode/
+/.settings/
+/.idea/
+/.apt_generated_tests/
+/.apt_generated/

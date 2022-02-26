@@ -1,0 +1,3 @@
+Karate is the only open-source tool to combine API test-automation, 
+mocks, performance-testing and 
+even UI automation into a single, unified framework.
